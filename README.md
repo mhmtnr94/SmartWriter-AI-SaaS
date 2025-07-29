@@ -12,7 +12,6 @@ SmartWriter AI is an AI-powered SaaS platform that helps users write high-qualit
 - **Authentication:** Supabase Auth
 - **Payments:** Stripe
 - **AI Integration:** OpenAI GPT-4 API
-- **Deployment:** Vercel (Frontend) & Railway (Backend)
 
 ---
 
@@ -24,7 +23,6 @@ SmartWriter AI is an AI-powered SaaS platform that helps users write high-qualit
 - 🧾 Export content in Markdown or HTML
 - 🔐 Auth system (Sign up / Sign in with Supabase)
 - 💳 Stripe subscription plans (Free & Pro)
-- 🌙 Light/Dark Mode support
 - 📊 Usage quota based on plan
 - 🛡️ Rate limiting and OpenAI token usage tracking
 
